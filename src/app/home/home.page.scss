@@ -1,0 +1,20 @@
+.bloco{
+    height: 250 px;
+    background-color: rgb(143, 250, 250);  
+    border-radius: 5px;  
+}
+
+.nome-remedio{
+    font-weight: bolder;
+}
+
+.progress-bar{
+    height: 25px;
+    border-radius: 5px;    
+}
+
+.container-progress-bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
